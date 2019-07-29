@@ -1,0 +1,37 @@
+	 [
+		{
+			"image": "https://res.cloudinary.com/emefas/image/upload/v1563710240/nutty_buatnw.jpg",
+			"name": "Peanut Butter 12g",
+			"price": "$1",
+			"id": "1"
+			
+		},
+		{
+			"image": "https://res.cloudinary.com/emefas/image/upload/v1563710240/nutty_buatnw.jpg",
+			"name": "Almond Butter 12g",
+			"price": "$1",
+			"id": "2"
+			
+		},
+		{
+			"image": "https://res.cloudinary.com/emefas/image/upload/v1563710240/nutty_buatnw.jpg",
+			"name": "Shea Butter 12g",
+			"price": "$1",
+			"id": "3"
+			
+		},
+		{
+			"image": "https://res.cloudinary.com/emefas/image/upload/v1563710240/nutty_buatnw.jpg",
+			"name": "Hazel Butter 12g",
+			"price": "$1",
+			"id": "4"
+			
+		},
+		{
+			"image": "https://res.cloudinary.com/emefas/image/upload/v1563710240/nutty_buatnw.jpg",
+			"name": "Cashew Butter 12g",
+			"price": "$1",
+			"id": "5"
+			
+        }
+	]
