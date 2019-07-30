@@ -1,37 +1,33 @@
+	
+	 
 	 [
 		{
-			"image": "https://res.cloudinary.com/emefas/image/upload/v1563710240/nutty_buatnw.jpg",
-			"name": "Peanut Butter 12g",
-			"price": "$1",
+			"image": "FullComputer",
+			"name": "Pack Full Computer",
+			"price": "995",
 			"id": "1"
 			
 		},
 		{
-			"image": "https://res.cloudinary.com/emefas/image/upload/v1563710240/nutty_buatnw.jpg",
-			"name": "Almond Butter 12g",
-			"price": "$1",
+			"image": "Laptop",
+			"name": "Laptop",
+			"price": "730",
 			"id": "2"
 			
 		},
 		{
-			"image": "https://res.cloudinary.com/emefas/image/upload/v1563710240/nutty_buatnw.jpg",
-			"name": "Shea Butter 12g",
-			"price": "$1",
+			"image": "monitor",
+			"name": "Monitor",
+			"price": "85",
 			"id": "3"
 			
 		},
 		{
-			"image": "https://res.cloudinary.com/emefas/image/upload/v1563710240/nutty_buatnw.jpg",
-			"name": "Hazel Butter 12g",
-			"price": "$1",
+			"image": "Mouse",
+			"name": "Mouse",
+			"price": "12 ",
 			"id": "4"
 			
-		},
-		{
-			"image": "https://res.cloudinary.com/emefas/image/upload/v1563710240/nutty_buatnw.jpg",
-			"name": "Cashew Butter 12g",
-			"price": "$1",
-			"id": "5"
-			
-        }
+		}
+
 	]

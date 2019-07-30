@@ -3,7 +3,6 @@ import { BrowserRouter } from 'react-router-dom';
 import { Switch, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Store from './components/Store';
-import Product from './components/Product';
 import Navbar from './components/Navbar';
 // import ErrorPage from './components/ErrorPage';
 import Cart from './components/Cart';
@@ -96,7 +95,6 @@ console.log(this.state.products)}
         <Navbar productCount={this.state.count}/>
         <Switch>
           <Route exact path="/" render={() => <Store products={this.state.products} handleAddToCart={this.addToCart} handleRemoveFromCart={this.removeFromCart}/>} />
-          <Route path="/product/:id" component={Product} />
           <Route path="/cart" render ={() => <Cart products={this.state.products} count={this.state.count} handleAddToCart={this.addToCart} handleRemoveFromCart={this.removeFromCart}/> } />
           {/* <Route component={ErrorPage} /> */}
         </Switch>

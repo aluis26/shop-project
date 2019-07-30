@@ -1,0 +1,74 @@
+.wrapper{    
+    display:flex;
+    padding: 10px;
+   
+}
+
+.element{
+    padding: 25px;
+    display: flex;
+    flex-direction: column; 
+    width: 400px;
+    
+    
+}
+
+.boxImg{   
+    flex: 0,0, 350px;
+    /* width: 350px; */
+    margin: 20px;
+    border: 1px solid gray;
+    padding: 20px;
+    
+    display: block;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+.imgCart{
+    padding: 20px;    
+    height: 200px;   
+
+}
+
+.text{
+    text-align: center;
+    font-size: 18px;
+}
+
+.Button{
+    
+    text-align: center;
+    }
+
+.empty{
+    padding:40px;
+    font-size: 25px;
+    position: absolute;
+}
+.title{
+    padding: 40px;
+}
+
+.boxTotal{   
+    margin: 20px;
+    border: 2px solid gray;
+    padding: 20px;    
+    display: block;  
+    margin-left:auto;
+    height: 300px;
+}
+.total{
+    padding-top: 60px;   
+    padding-bottom: 20px;
+    align-self: auto;
+    font-weight: bold;   
+}
+.money{
+    padding: 0px 60px 0px 20px ; 
+    font-weight: bold;  
+    font-size: 23px;
+    color: red;
+    align-self: auto;
+
+}
