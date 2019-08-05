@@ -1,3 +1,9 @@
+.wrapper{    
+    display:flex;
+    padding: 10px;
+    flex-direction: row;
+   
+}
 .product-container {
     width: 350px;
     margin: 50px;

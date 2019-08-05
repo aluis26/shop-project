@@ -30,8 +30,7 @@ export class Cart extends Component {
                   <div> {product.price}€ </div>
                   <div> Units: {product.amount} </div>   
                   <div><Button onClick={() => this.props.handleRemoveFromCart(product)}>Remove From Cart</Button></div>
-                </div> 
-                
+                </div>                 
               </div>
           
             )
