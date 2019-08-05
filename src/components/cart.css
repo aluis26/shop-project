@@ -1,11 +1,11 @@
 .wrapper{    
     display:flex;
     padding: 10px;
+    max-width: 1300 px;
    
 }
 
 .element{
-    padding: 25px;
     display: flex;
     flex-direction: column; 
     width: 400px;

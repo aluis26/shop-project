@@ -6,12 +6,12 @@
 }
 .product-container {
     width: 350px;
-    margin: 50px;
+    margin: 30px;
     border: 2px solid gray;
     padding: 20px;
     
     display: block;
-    flex-wrap: wrap;
+
     text-align: center;
     font-size: 18px;
 } 
